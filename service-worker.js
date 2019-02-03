@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.36112bd55416a7a8616328053e1c3d0f.js"
+  "/precache-manifest.9d827ad7c08d901e9944531015a954c0.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tag-collection"});
